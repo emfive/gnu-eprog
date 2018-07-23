@@ -23,6 +23,13 @@ below.
 $ make
 ------
 
+For Ubuntu 18.05, the package names are slightly different, but the make
+command is the same:
+------
+# apt-get install openjdk-8-jre libsaxon-java libxslthl-java docbook-xsl asciidoc imgsizer dia
+$ make
+------
+
 The official rendered version of the is book is available from
 http://www.bravegnu.org/gnu-eprog/
 
